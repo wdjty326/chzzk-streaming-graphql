@@ -1,0 +1,21 @@
+{
+  "name": "streaming-private-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.ts",
+  "dependencies": {
+    "@apollo/server": "^4.10.2",
+    "@as-integrations/aws-lambda": "^3.1.0",
+    "graphql": "^16.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.2",
+    "serverless-plugin-typescript": "^2.1.5",
+    "typescript": "^5.4.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,8 @@
+# tsconfig.json outDir
+.build
+
+# serverless deploy
+.serverless
+
+# module
+node_modules
